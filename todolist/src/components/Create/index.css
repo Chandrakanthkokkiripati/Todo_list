@@ -1,0 +1,17 @@
+.input-field{
+    outline: none;
+    height: 20px;
+    border-radius: 5px;
+    padding-left: 10px;
+}
+
+.add-button{
+    background-color: rgb(1, 166, 248);
+    color: #fff;
+    width: 60px;
+    padding: 5px;
+    margin-left: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
